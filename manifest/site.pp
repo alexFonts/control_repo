@@ -1,5 +1,5 @@
 node default {
-  fiel {'/root/README':
+  file {'/root/README':
     ensure => file,
     }
 }
